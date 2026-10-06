@@ -1,0 +1,37 @@
+========================================
+BACKUP AND RECOVERY GUIDE
+========================================
+
+AUTOMATIC BACKUPS:
+✅ Every time you close the program
+✅ Daily at 2:00 AM
+
+LOCATION:
+CTH_Tools_System/backups/
+
+BACKUP FILES:
+Format: backup_YYYY-MM-DD_HH-MM-SS.sql
+Example: backup_2026-07-22_14-30-00.sql
+
+RETENTION:
+The system keeps the last 7 backups
+
+========================================
+HOW TO RESTORE A BACKUP
+========================================
+
+Step 1: Locate the backup file
+- Go to CTH_Tools_System/backups/
+- Find the .sql file you want to restore
+
+Step 2: Close the program
+- Exit CTH Tools completely
+
+Step 3: Rename the current database
+- Go to CTH_Tools_System/
+- Rename cth_tools.db to cth_tools_old.db
+
+Step 4: Restore the backup
+- Contact support for restore assistance
+
+========================================

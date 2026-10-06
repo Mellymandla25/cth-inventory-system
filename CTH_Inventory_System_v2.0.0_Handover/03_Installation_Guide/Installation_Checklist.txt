@@ -1,0 +1,34 @@
+========================================
+CTH TOOLS - INSTALLATION CHECKLIST
+========================================
+
+☐ Step 1: Check if Java is installed
+   - Open Command Prompt
+   - Type: java -version
+   - If not installed, download from java.com
+
+☐ Step 2: Copy the program folder
+   - Copy "CTH_Inventory_System" to desktop or Documents
+
+☐ Step 3: Run the program
+   - Double-click "run.bat"
+   - First run: Enter license key: CTH-DEMO-2024
+
+☐ Step 4: Login
+   - Username: admin
+   - Password: admin123
+
+☐ Step 5: Change the admin password!
+   - Go to User Management → Edit User → admin
+
+☐ Step 6: Test a sale
+   - Login as cashier: cashier / cashier123
+   - Add a product to cart
+   - Complete the sale
+   - Check the invoices folder for the PDF
+
+☐ Step 7: Verify backups
+   - Close the program
+   - Check the backups folder for a .sql file
+
+========================================

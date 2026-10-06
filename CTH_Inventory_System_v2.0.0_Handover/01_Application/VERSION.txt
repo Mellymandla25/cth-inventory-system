@@ -1,0 +1,21 @@
+========================================
+CTH TOOLS INVENTORY SYSTEM
+========================================
+Version: 2.0.0
+Release Date: 2026-07-22
+License: Commercial
+
+SYSTEM OVERVIEW:
+- Inventory Management System
+- Point of Sale (POS)
+- PDF Invoice Generation
+- Stock Monitoring with Alerts
+- User Authentication (Admin/Cashier)
+
+TECHNICAL STACK:
+- Java (JDK 25)
+- SQLite Database
+- OpenPDF for Invoices
+- NetBeans IDE
+
+========================================
